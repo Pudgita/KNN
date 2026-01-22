@@ -50,10 +50,11 @@ datasets.make_classification(
     n_classes=2,             
 )
 ```
+224, 269
 Была выбрана точка из тестовой выборки, имеющая координаты: <i>[0.40499284; -0.19000485]</i>
 <br></br>
 <h2>График, где синие точки имеют класс 1 и красные класс 0. Зеленым цветом обозначена тестовая точка.</h2>
-<img width="448" height="538" alt="image" src="https://github.com/user-attachments/assets/189afbf0-2dbb-412b-bbac-22262db8fb73" /> <img width="448" height="538" alt="image" src="https://github.com/user-attachments/assets/9ec8c84d-8f61-44ac-8f04-8c0d7cf128eb" />
+<img width="336" height="404" alt="image" src="https://github.com/user-attachments/assets/189afbf0-2dbb-412b-bbac-22262db8fb73" /> <img width="336" height="404" alt="image" src="https://github.com/user-attachments/assets/9ec8c84d-8f61-44ac-8f04-8c0d7cf128eb" />
 
 
 <h3>Предсказания модели при k=3:</h3>
